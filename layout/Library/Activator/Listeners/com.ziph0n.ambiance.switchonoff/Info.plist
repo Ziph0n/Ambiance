@@ -1,0 +1,10 @@
+{
+	group = Ambiance;
+	title = "Turn On/Off";
+	description = "Turn On/Off the lights";
+	"compatible-modes" = (
+		springboard,
+		lockscreen,
+		application,
+	);
+}

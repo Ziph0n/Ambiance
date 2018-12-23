@@ -1,0 +1,10 @@
+Package: com.ziph0n.ambiance
+Name: Ambiance
+Depends: mobilesubstrate, ws.hbang.common, libactivator
+Architecture: iphoneos-arm
+Description: The perfect link between iOS and your Hue Lights!
+Maintainer: Ziph0n
+Author: Ziph0n
+Section: Tweaks
+Version: 1.0
+Installed-Size: 1088
